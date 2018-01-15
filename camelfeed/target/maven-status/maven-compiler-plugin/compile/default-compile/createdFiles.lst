@@ -1,0 +1,10 @@
+camel\sample\view\ItemView.class
+camel\sample\util\XMLHandler.class
+camel\sample\CamelRSSFeedConsumer$1$1.class
+camel\sample\RestFeedCaller.class
+camel\sample\CamelRestServiceConsumer$1.class
+camel\sample\CamelRestServiceConsumer.class
+camel\sample\CamelRSSFeedConsumer.class
+camel\sample\CamelRSSFeedConsumer$1.class
+camel\sample\json\XMLToJSONConverter.class
+camel\sample\view\XMLView.class
